@@ -1,0 +1,8 @@
+1- Sql Yükleyin
+2- wwwroot veya htdocs boosterapi atın
+3- duyuru ve islem adlı php dosyalarını templatenize atın
+4- client adlı phpdeki kodları clientinize ekleyin
+5- dbdeki users kısmına boost adlı sütun ekleyin ve herzaman 0 yapın
+
+Bu kadar basit
+- alexiss
